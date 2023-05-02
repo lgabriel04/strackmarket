@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/strackmarket/static/css/main.dbf02376.css",
+    "main.js": "/strackmarket/static/js/main.9ad4d861.js",
+    "static/js/787.df2a6bab.chunk.js": "/strackmarket/static/js/787.df2a6bab.chunk.js",
+    "index.html": "/strackmarket/index.html",
+    "main.dbf02376.css.map": "/strackmarket/static/css/main.dbf02376.css.map",
+    "main.9ad4d861.js.map": "/strackmarket/static/js/main.9ad4d861.js.map",
+    "787.df2a6bab.chunk.js.map": "/strackmarket/static/js/787.df2a6bab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbf02376.css",
+    "static/js/main.9ad4d861.js"
+  ]
+}
